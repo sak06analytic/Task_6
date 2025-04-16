@@ -41,3 +41,13 @@ GROUP BY
 ORDER BY
     order_year,
     order_month;
+
+# Additional 
+I tried  multiple separate queries in  SQL file, and each one gives its own result set
+b.GROUP BY year/month.
+c.Use SUM() for revenue.
+d.COUNT(DISTINCT order_id) for volume.
+e.Use ORDER BY for sorting.
+f.Limit results for specific time periods.
+
+I attached this file named asMultiple queries  
